@@ -1,0 +1,6 @@
+F:\CursoSOLID\FactoryMethod\FactoryMethod\Builder\bin\Debug\Builder.exe.config
+F:\CursoSOLID\FactoryMethod\FactoryMethod\Builder\bin\Debug\Builder.exe
+F:\CursoSOLID\FactoryMethod\FactoryMethod\Builder\bin\Debug\Builder.pdb
+F:\CursoSOLID\FactoryMethod\FactoryMethod\Builder\obj\Debug\Builder.csprojAssemblyReference.cache
+F:\CursoSOLID\FactoryMethod\FactoryMethod\Builder\obj\Debug\Builder.exe
+F:\CursoSOLID\FactoryMethod\FactoryMethod\Builder\obj\Debug\Builder.pdb
